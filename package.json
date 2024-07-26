@@ -1,0 +1,26 @@
+{
+  "name": "cypress-custom-runner-reporter",
+  "version": "1.0.0",
+  "description": "Create a custom runner and reporter for Cypress tests to get the Cypress runUrl in reports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node custom_runner.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aevans-mms/cypress-custom-runner-reporter.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Aaron Evans",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/aevans-mms/cypress-custom-runner-reporter/issues"
+  },
+  "homepage": "https://github.com/aevans-mms/cypress-custom-runner-reporter#readme",
+  "devDependencies": {
+    "cypress": "^13.13.1",
+    "mocha": "^10.7.0"
+  }
+}

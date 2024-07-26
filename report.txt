@@ -1,0 +1,9 @@
+test run started
+passed:example to-do app displays two todo items by default
+passed:example to-do app can add new todo items
+passed:example to-do app can check off an item as completed
+passed:example to-do app with a checked task can filter for uncompleted tasks
+passed:example to-do app with a checked task can filter for completed tasks
+passed:example to-do app with a checked task can delete all completed tasks
+Cypress report: undefined
+test run finished
